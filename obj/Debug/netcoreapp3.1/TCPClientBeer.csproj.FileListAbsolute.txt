@@ -1,0 +1,13 @@
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.exe
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.deps.json
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.runtimeconfig.json
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.runtimeconfig.dev.json
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.dll
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\bin\Debug\netcoreapp3.1\TCPClientBeer.pdb
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.csprojAssemblyReference.cache
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.AssemblyInfoInputs.cache
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.AssemblyInfo.cs
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.csproj.CoreCompileInputs.cache
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.dll
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.pdb
+C:\Users\herso\OneDrive\Skrivebord\projekter\TCPClientBeer\obj\Debug\netcoreapp3.1\TCPClientBeer.genruntimeconfig.cache
